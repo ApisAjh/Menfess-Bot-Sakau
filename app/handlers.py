@@ -13,8 +13,7 @@ logger = logging.getLogger("menfess_bot.handlers")
 CHANNEL_LINK = "https://t.me/iMenfessSakau"
 
 WELCOME_TEXT = (
-    "⚠️ 𝐖𝐀𝐑𝐍𝐈𝐍𝐆: 𝐍𝐄𝐖 𝐀𝐑𝐑𝐈𝐕𝐀𝐋 𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃 ⚠️\n\n"
-    "Halo {user}, selamat bergabung di 𝗦𝗔𝗞𝗔𝗨 𝟲𝟵!"
+    "Halo {user}, selamat datang di MENFESS SAKAU BOT\n\n"
 )
 
 
